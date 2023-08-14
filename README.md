@@ -5,9 +5,9 @@
    <kbd>
    <img  src="https://cdn.discordapp.com/attachments/1136377270894866532/1140594412615893033/pngtree-fox-png-image_853380.png">
    </kbd><br><br>
-   <img src="https://img.shields.io/github/languages/top/Blank-c/bot-logger">
-   <img src="https://img.shields.io/github/stars/Blank-c/bot-logger">
-   <img src="https://img.shields.io/github/forks/Blank-c/bot-logger">
+   <img src="https://img.shields.io/github/languages/top/bot-c/bot-logger">
+   <img src="https://img.shields.io/github/stars/bot-c/bot-logger">
+   <img src="https://img.shields.io/github/forks/bot-c/bot-logger">
    <br>
    <img src="https://img.shields.io/github/last-commit/bot-c/bot-loggerr">
    <img src="https://img.shields.io/github/license/bot-c/bot-logger">
