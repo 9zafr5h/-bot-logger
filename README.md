@@ -1,5 +1,5 @@
 <h1 align="center">
-   bot logger
+   fox logger
 </h1>
 <p align= "center">
    <kbd>
