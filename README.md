@@ -16,4 +16,4 @@
 | **Fake Error** | Create custom (fake) error. |
 | **Discord Injection** | Puts backdoor on the Discord client for persistence. |
 | **UAC Bypass** | Tries to get administrator permissions without showing any prompt. |
-| **BOT LOGGER** | Give Discord virus and could not open again. | 
+| **FOX LOGGER** | Give Discord virus and could not open again. | 
